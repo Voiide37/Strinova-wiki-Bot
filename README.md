@@ -48,7 +48,7 @@ Strinova Wiki Bot is a Discord bot that provides links to various wiki pages bas
    pip install -r requirements.txt
    ```
 
-4. Create a [.env](http://_vscodecontentref_/0) file in the project directory and add your Discord bot token:
+4. Create a [.env](http://_vscodecontentref_/1) file in the project directory and add your Discord bot token:
 
    ```plaintext
    DISCORD_TOKEN=your_token_here
@@ -66,4 +66,12 @@ Strinova Wiki Bot is a Discord bot that provides links to various wiki pages bas
 
 ## License
 
-This project is licensed under the MIT License.
+All Rights Reserved License
+
+Copyright (c) 2023 Siphiwe Nala
+
+All rights reserved. This software and associated documentation files (the "Software") are the exclusive property of the copyright holder. Unauthorized copying, modification, distribution, or use of the Software, in whole or in part, is strictly prohibited.
+
+Permission is not granted to any person to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, or to permit persons to whom the Software is furnished to do so.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
